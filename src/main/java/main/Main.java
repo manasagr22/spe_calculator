@@ -2,7 +2,7 @@ package main;
 
 import java.util.Scanner;                    
 import org.apache.logging.log4j.LogManager;    //Import 1
-import org.apache.logging.log4j.Logger;        //Import 2
+import org.apache.logging.log4j.Logger;        
 
 public class Main {
     private static final Logger logger = LogManager.getLogger(Main.class);
